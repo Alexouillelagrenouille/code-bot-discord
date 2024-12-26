@@ -6,6 +6,17 @@ je tient a préciser que le code fonctionne avec deux fichier .py (config.py et 
 je précise aussi que je suis debutant dans le language de programation python donc le code n'est pas forcement optimiser dans le meilleurs des cas, si vous avez des souci ou que vous voyez une erreur merci de me le partager su mon adresse mail: lexouillelagrenouilleapap@gmail.com        (ceci est un mail profesionnelle)
 
 
+n'oublier pas avant toute chose d'installer l'extention python de microsoft sur visual studio code 
+
+et d'installer via la console en fesait "pip install "
+discord.py (éxemple: pip install discord.py)
+randoms.py
+requests.py
+openai.py
+
+avec le code vous aurez chatgpt , a noté que les generations d'image bug un peu (je n'ai pas pu les tester) celle de deep_ai ne fonctionne pas pour ma part et celle de openai, je n'ai pas asser de crédits, il n'y a que la fonctione chat de chatgpt en fesant "!gpt" qui fonctionne de ce que j'ai vu pour l'ia (discuter via chatgpt via le bot consomme des crédits d'openai)
+
+
 
 
 je metterais souvent ce README.txt a jour 
